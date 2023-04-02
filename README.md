@@ -1,7 +1,7 @@
 # To work, download the file from the branch "main" and install all the necessary files using  
-### npm i
+### `npm i`
 and then
-### npm start
+### `npm start`
  
 # Getting Started with Create React App
 
